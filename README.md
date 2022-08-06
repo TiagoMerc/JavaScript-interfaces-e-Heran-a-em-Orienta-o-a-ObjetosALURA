@@ -25,3 +25,25 @@ O que aprendemos nessa aula:
 - Problemas de duplicação de código
 
 - Problemas de código extremamente compartilhado
+
+### 02. Herança 
+
+O que aprendemos nessa aula:
+
+- Especializando código
+
+- Herdando propriedades e atributos
+
+- Sobrecarga de métodos
+
+- Compartilhando código de forma segura
+
+- Mantendo nosso código na linguagem do cliente
+
+- Evitando código muito complicado através da herança
+
+- Palavra-chave Super
+
+- Método e propriedades privadas e protegidas
+
+![Herança](prints/heranca.png)
