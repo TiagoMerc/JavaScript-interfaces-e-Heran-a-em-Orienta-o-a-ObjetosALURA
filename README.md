@@ -65,3 +65,27 @@ O que aprendemos nessa aula:
 - Erros em tempo de execução
 
 ### 04. Sistema interno 
+
+O que aprendemos nessa aula:
+
+- Revisão de herança,boas práticas de código e encapsulamento
+
+- Polimorfismo
+
+- Métodos estáticos
+
+- Maneiras de tratar objetos de diferentes tipos de maneira parecida
+
+#### 05. Interfaces e Duck Type
+
+O que aprendemos nessa aula:
+
+- operador in
+
+- operador instanceOf
+
+- Como proteger nossos sistemas
+
+- interfaces padronizadas
+
+- Ducky Type
