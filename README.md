@@ -47,3 +47,21 @@ O que aprendemos nessa aula:
 - Método e propriedades privadas e protegidas
 
 ![Herança](prints/heranca.png)
+
+### 03. Classes abstratas
+
+O que aprendemos nessa aula:
+
+- Como o JS sabe quem está sendo instanciado.
+
+- Pensando na proteção do nosso sistema
+
+- Lançando erros para o sistema
+
+- Classes abstratas
+
+- Métodos abstratos
+
+- Erros em tempo de execução
+
+### 04. Sistema interno 
